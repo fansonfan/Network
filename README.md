@@ -1,2 +1,4 @@
-# Network
-课设课设（算是站在巨人的肩膀上吧。。。。）
+### Chatroom based on socket
+
+
+Implementation of chat room based on socket in practice
